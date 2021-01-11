@@ -10,7 +10,7 @@ onto the intersection of finitely many closed convex sets in a Hilbert space.
 Given finitely many closed convex sets `C[i]`, we define the intersection of these sets as `S = intersect(C[0], C[1], ...)`. Then for an input point `x0`
 that may or may not be feasible, Dykstra maps this point to the nearest point in `S`.
 
-The code implementation of this is a function `Dykstra(P,x0,max_iter=1000,tol=1e-6)` that takes in as inputs a list of projection functions and the point to project, and
+The code implementation of this is a function `dykstra.project(P,x0,max_iter=1000,tol=1e-6)` that takes in as inputs a list of projection functions and the point to project, and
 returns the closest feasible point.
 
 This version of Dykstra's algorithm uses the robust stopping criteria introduced in [3].
