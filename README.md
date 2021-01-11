@@ -1,5 +1,7 @@
 # Dykstra
 
+[![PyPI version](https://badge.fury.io/py/Dykstra.svg)](https://badge.fury.io/py/Dykstra)
+
 This repo implements Dykstra's projection algorithm. Not to be confused with Dijkstra's shortest path algorithm.
 
 Dykstra's algorithm solves the projection problem, i.e. finding the closest feasible point to any given point that may not be feasible,
