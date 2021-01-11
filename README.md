@@ -1,4 +1,4 @@
-# Dykstra
+# Dykstra's algorithm
 
 [![PyPI version](https://badge.fury.io/py/Dykstra.svg)](https://badge.fury.io/py/Dykstra)
 
