@@ -32,6 +32,8 @@ For a more detailed example see the examples folder.
 
 
 References:
+```
 [1] Dykstra R.L., 1983. An algorithm for restricted least squares regression.
 [2] Boyle J.P., Dykstra R.L., 1986. A Method for Finding Projections onto the Intersection of Convex Sets in Hilbert Spaces.
 [3] Birgin E.G., Raydan M., 2004. Robust stopping criteria for Dykstra's algorithm.
+```
