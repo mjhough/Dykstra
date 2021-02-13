@@ -28,7 +28,7 @@ import dykstra # import package
 ...
 
 # call the projection function
-x_pred = dykstra.project(x0,[p1,p2,...])
+x_pred = dykstra.project([p1,p2,...],x0)
 ```
 For a more detailed example see the examples folder.
 
